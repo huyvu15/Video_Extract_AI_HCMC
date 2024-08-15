@@ -1,4 +1,3 @@
-<h1><center>Pipeline HCM AI CHALLENGE <br> Event Retrieval from Visual Data</center></h1>
 
 ## Setup 
 ```
